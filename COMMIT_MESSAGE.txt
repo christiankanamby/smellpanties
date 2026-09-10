@@ -1,0 +1,1 @@
+Fix root route and static asset serving on Render

@@ -1,8 +1,7 @@
 services:
   - type: web
-    name: smell-panties
+    name: fufuy
     runtime: python
-    plan: free
     buildCommand: echo "No build required"
     startCommand: python app.py
     healthCheckPath: /health
