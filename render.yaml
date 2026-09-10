@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: smell-panties
+    runtime: python
+    plan: free
+    buildCommand: echo "No build required"
+    startCommand: python app.py
+    healthCheckPath: /health
+    autoDeploy: true

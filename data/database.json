@@ -1,0 +1,15 @@
+{
+  "site": {
+    "name": "Smell Panties",
+    "status": "Under construction",
+    "status_fr": "Site en construction",
+    "version": "1.0.0"
+  },
+  "settings": {
+    "maintenance_mode": true,
+    "languages": [
+      "en",
+      "fr"
+    ]
+  }
+}
